@@ -16,7 +16,7 @@ data downloaded from the Canadian
 [National Climate Archive](http://climate.weatheroffice.gc.ca/climateData/hourlydata_e.html?Prov=QC&StationID=5415&Year=2013&Month=2&Day=16&timeframe=1). 
 You can see the IPython notebook here:
 
-[View the notebook using nbviewer](http://nbviewer.ipython.org/url/raw.github.com/jvns/talks/master/mtlpy35/pistes-cyclables.ipynb)
+[View the notebook using nbviewer](https://nbviewer.jupyter.org/github/jvns/talks/blob/master/2013-04-mtlpy/pistes-cyclables.ipynb)
 
 It's made using [pandas](http://pandas.pydata.org/) and [IPython notebook](http://ipython.org/notebook.html).
 
